@@ -29,3 +29,5 @@ redirect_from:
 
 
 Reviewer: TIP, TMM, TCSVT, PR, CVIU, TII, TNNLS, Information Fusion, EAAI, ESWA, Applied Soft Computing, ICME...
+
+Research Area: Image Enhancement, Image Dehazing, Low-light Computer Vision, Underwater Computer Vision
