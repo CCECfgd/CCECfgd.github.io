@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Publications"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# Personal Information
+Work unit: School of Computer Science and Technology, Shandong University of Technology and Business                  
+Title: Associate Professor
+Education: Doctor of Engineering   
+Research Interests: Image Enhancement                           
+Email: fgd96@outlook.com
 
-# Research Overview
+# Experience
 This section provides a brief overview of my research areas, including image enhancement, image dehazing, low-light computer vision, and underwater computer vision.
 
 # Publications
