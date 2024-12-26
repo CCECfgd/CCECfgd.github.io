@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # Education
-- Qingdao university, Qingdao, China 09/2021 – Now  
+- Qingdao University, Qingdao, China 09/2021 – Now  
   *Ph.D. in Software Engineering*
   
 
