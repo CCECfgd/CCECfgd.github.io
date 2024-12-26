@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-###Publications
+**Publications**
 *	Fan G, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective, AAAI 2025 (**Accept**, CCF A)
 *	Fan G, Gan M, Fan B, et al. Multiscale cross-connected dehazing network with scene depth fusion[J]. IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(2): 1598-1612.(SCI Q1, CCF B)
 *	Fan G, Fan B, Gan M, et al. Multiscale low-light image enhancement network with illumination constraint[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(11): 7403-7417. (SCI Q1, CCF B)
