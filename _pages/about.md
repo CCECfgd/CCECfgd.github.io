@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 # Education
-- Qingdao university, Qingdao, China 09/2021 – Now
-  Ph.D. in Software Engineering  
+- Qingdao university, Qingdao, China 09/2021 – Now  
+  *Ph.D. in Software Engineering*
   
 
 - Shandong Technology and Business University, Yantai, China 09/2018 – 06/2021  
-  Master of Engineering
+  *Master of Engineering*
 
 - Shandong Technology and Business University, Yantai, China 09/2014 – 06/2018  
-  Bachelor Degree of Engineering
+  *Bachelor Degree of Engineering*
 
 # Research Interests
 - Image Enhancement
