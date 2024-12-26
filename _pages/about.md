@@ -47,5 +47,5 @@ redirect_from:
 TIP, TMM, TCSVT, PR, CVIU, TII, TNNLS, Information Fusion, EAAI, ESWA, Applied Soft Computing, ICME...
 
 # Academic Service
-- Conference Program Committee of the ICME2025 Workshop
+- Conference Program Committee of the ICME2025 Workshop: Multimedia in Underwater Information Processing and Exploration
 
