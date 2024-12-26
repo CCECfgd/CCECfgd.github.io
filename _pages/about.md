@@ -6,15 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Personal Information
-Work unit: School of Computer Science and Technology, Shandong University of Technology and Business                  
-Title: Associate Professor
-Education: Doctor of Engineering   
-Research Interests: Image Enhancement                           
-Email: fgd96@outlook.com
+# Education
+- Qingdao university, Qingdao, China 09/2021 – Now  Ph.D. in Software Engineering
 
-# Experience
-This section provides a brief overview of my research areas, including image enhancement, image dehazing, low-light computer vision, and underwater computer vision.
+- Shandong Technology and Business University, Yantai, China 09/2018 – 06/2021 Master of Engineering
+
+- Shandong Technology and Business University, Yantai, China 09/2014 – 06/2018 Bachelor Degree of Engineering
+
+# Research Interests
+- Image Enhancement
+- Image Dehazing
+- Low-light Computer Vision
+- Underwater Computer Vision
 
 # Publications
 *	**Fan G**, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective, *AAAI* 2025 (**Accept**, CCF A)
@@ -36,15 +39,9 @@ This section provides a brief overview of my research areas, including image enh
 * Sun T, **Fan G**, Gan M. Fractal pyramid low-light image enhancement network with illumination information[J]. *Journal of Electronic Imaging*, 2022, 31(4): 043050. (SCI Q4, ***Corresponding Author***)
 * Hu S, Cheng Z, **Fan G**, et al. Texture-Aware and Color-Consistent Learning For Underwater Image Enhancement[J]. *Journal of Visual Communication and Image Representation*, 2024. 98: 104051. (SCI Q4, CCF C, ***Corresponding Author***)
 
+#Reviewer
+TIP, TMM, TCSVT, PR, CVIU, TII, TNNLS, Information Fusion, EAAI, ESWA, Applied Soft Computing, ICME...
 
+#Academic Service
+Conference Program Committee of the ICME Workshop
 
-Reviewer: TIP, TMM, TCSVT, PR, CVIU, TII, TNNLS, Information Fusion, EAAI, ESWA, Applied Soft Computing, ICME...
-
-Research Area: Image Enhancement, Image Dehazing, Low-light Computer Vision, Underwater Computer Vision
-
-# Research Interests
-My research focuses on several key areas:
-- Image Enhancement
-- Image Dehazing
-- Low-light Computer Vision
-- Underwater Computer Vision
