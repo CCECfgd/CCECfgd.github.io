@@ -20,8 +20,8 @@ redirect_from:
 # Research Interests
 - Image Enhancement
 - Image Dehazing
-- Low-light Computer Vision
-- Underwater Computer Vision
+- Low-light Vision
+- Underwater Vision
 
 # Publications
 *	**Fan G**, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective, *AAAI* 2025 (**Accept**, CCF A)
