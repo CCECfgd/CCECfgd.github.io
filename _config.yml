@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guo Dong Fan's Personal Homepage"
+title                    : "GuoDong Fan's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "FGD.png"
-  name             : "Guo Dong Fan"
+  name             : "GuoDong Fan"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
   location         : "TsingTao"
