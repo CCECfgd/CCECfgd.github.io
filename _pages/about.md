@@ -24,7 +24,7 @@ redirect_from:
 - Underwater Vision
 
 # Publications
-*	**Fan G**, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective, *AAAI* 2025 (**Accept**, CCF A)
+*	**Fan G**, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective[C]. *AAAI Conference on Artificial Intelligence*, 2025 (**Accept**, CCF A)
 *	**Fan G**, Gan M, Fan B, et al. Multiscale cross-connected dehazing network with scene depth fusion[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2024, 35(2): 1598-1612.(SCI Q1, CCF B)
 *	**Fan G**, Zhou J, Cheng Z et al. Deep Dive into Clarity: Leveraging Signal-to-Noise Ratio Awareness and Knowledge Distillation for Underwater Image Enhancement[J]. *Expert Systems with Applications*. 2024 (SCI Q1, **Accept**)
 *	**Fan G**，Yao Z, Gan, M. Illumination-Aware and Structure-Guided Transformer for Low-Light Image Enhancement[J]. *Computer Vision and Image Understanding*. 2024 (SCI Q3, CCF B, **Accept**)
