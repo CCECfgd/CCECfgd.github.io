@@ -1,5 +1,18 @@
 ---
 permalink: /
+title: "经历"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+小学
+初中
+高中
+大学
+研究生
+---
+permalink: /
 title: "Publications"
 author_profile: true
 redirect_from: 
