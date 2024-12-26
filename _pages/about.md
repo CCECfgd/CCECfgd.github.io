@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+# Research Overview
+This section provides a brief overview of my research areas, including image enhancement, image dehazing, low-light computer vision, and underwater computer vision.
+
+# Publications
 *	**Fan G**, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective, *AAAI* 2025 (**Accept**, CCF A)
 *	**Fan G**, Gan M, Fan B, et al. Multiscale cross-connected dehazing network with scene depth fusion[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2024, 35(2): 1598-1612.(SCI Q1, CCF B)
 *	**Fan G**, Zhou J, Cheng Z et al. Deep Dive into Clarity: Leveraging Signal-to-Noise Ratio Awareness and Knowledge Distillation for Underwater Image Enhancement[J]. *Expert Systems with Applications*. 2024 (SCI Q1, **Accept**)
@@ -31,3 +35,10 @@ redirect_from:
 Reviewer: TIP, TMM, TCSVT, PR, CVIU, TII, TNNLS, Information Fusion, EAAI, ESWA, Applied Soft Computing, ICME...
 
 Research Area: Image Enhancement, Image Dehazing, Low-light Computer Vision, Underwater Computer Vision
+
+# Research Interests
+My research focuses on several key areas:
+- Image Enhancement
+- Image Dehazing
+- Low-light Computer Vision
+- Underwater Computer Vision
