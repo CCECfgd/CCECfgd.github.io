@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "学术论文"
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /about/
