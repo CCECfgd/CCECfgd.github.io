@@ -39,9 +39,9 @@ redirect_from:
 * Sun T, **Fan G**, Gan M. Fractal pyramid low-light image enhancement network with illumination information[J]. *Journal of Electronic Imaging*, 2022, 31(4): 043050. (SCI Q4, ***Corresponding Author***)
 * Hu S, Cheng Z, **Fan G**, et al. Texture-Aware and Color-Consistent Learning For Underwater Image Enhancement[J]. *Journal of Visual Communication and Image Representation*, 2024. 98: 104051. (SCI Q4, CCF C, ***Corresponding Author***)
 
-#Reviewer
+# Reviewer
 TIP, TMM, TCSVT, PR, CVIU, TII, TNNLS, Information Fusion, EAAI, ESWA, Applied Soft Computing, ICME...
 
-#Academic Service
-Conference Program Committee of the ICME Workshop
+# Academic Service
+- Conference Program Committee of the ICME2025 Workshop
 
