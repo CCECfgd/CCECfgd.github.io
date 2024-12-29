@@ -22,6 +22,7 @@ redirect_from:
 - Image Dehazing
 - Low-light Vision
 - Underwater Vision
+- Processing of Remote Sensing Image Data
 
 # Publications
 *	Zhang X, Xu C, **Fan G** et al. FSCMF: A Dual-Branch Frequency-Spatial Joint Perception Cross-Modality Fusion Network for Visible and Infrared Image Fusion[J]. Submitted to *Information Fusion*, 2024 (SCI Q1, ***Corresponding Author***)
