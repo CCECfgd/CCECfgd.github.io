@@ -26,7 +26,7 @@ redirect_from:
 
 # Publications
 * Yuan G, **Fan G**, Li J. Underwater Multi-Sensor Information Fusion for Salient Object Detection[J]. Submitted to *IEEE Geoscience and Remote Sensing Letters*, 2024(SCI Q3, ***Corresponding Author***)
-*	Zhang X, Xu C, **Fan G** et al. FSCMF: A Dual-Branch Frequency-Spatial Joint Perception Cross-Modality Fusion Network for Visible and Infrared Image Fusion[J]. Submitted to *IEEE Internet of Things Journal*, 2024 (SCI Q2, ***Corresponding Author***)
+*	Zhang X, Xu C, **Fan G** et al. FSCMF: A Dual-Branch Frequency-Spatial Joint Perception Cross-Modality Fusion Network for Visible and Infrared Image Fusion[J]. Submitted to *IEEE Internet of Things Journal*, 2024 (SCI Q1, ***Corresponding Author***)
 *	Zhou S, Xu C, **Fan G** et al. SigNoma: Saliency Proportion Reconciliatory State Space Model with Squeezed Windows for Remote Sensing Change Detection[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2024 (SCI Q1, CCF B, ***Corresponding Author***)
 *	**Fan G**, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective[C]. *AAAI Conference on Artificial Intelligence*, 2025 (**Accept**, CCF A)
 *	**Fan G**, Gan M, Fan B, et al. Multiscale cross-connected dehazing network with scene depth fusion[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2024, 35(2): 1598-1612.(SCI Q1, CCF B)
