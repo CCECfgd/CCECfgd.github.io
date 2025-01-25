@@ -25,6 +25,7 @@ redirect_from:
 - Processing of Remote Sensing Image Data
 
 # Publications
+* **Fan G**, Hu S, Zhou J et al. Color and Texture Count Alike: An Underwater Image Enhancement Method via Dual-Attention Fusion[J]. Submitted to *Information Fusion*. 2025(SCI Q1)
 * Weng W, **Fan G**, Chen G et al. Enhancement and Super-Resolution of Underwater Images via a Diffusion-Based Unified Approach[C]. Submitted to *ICME* 2025. (CCF B)
 * Yuan G, **Fan G**, Li J. Underwater Multi-Sensor Information Fusion for Salient Object Detection[J]. Submitted to *IEEE Geoscience and Remote Sensing Letters*, 2024(SCI Q3, ***Corresponding Author***)
 *	Zhang X, Xu C, **Fan G** et al. FSCMF: A Dual-Branch Frequency-Spatial Joint Perception Cross-Modality Fusion Network for Visible and Infrared Image Fusion[J]. Submitted to *IEEE Internet of Things Journal*, 2024 (SCI Q1, ***Corresponding Author***)
