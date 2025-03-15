@@ -26,14 +26,13 @@ redirect_from:
 
 # Publications
 *	Zhang X, **Fan G** et al. Fine-Grained Change Detection in Remote Sensing Images Based on Wavelet Transform and Dual-Frequency Encoding[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (SCI Q1, CCF B, ***Corresponding Author***)
-* **Fan G**, Zhuang b, Yao Z et al. Divide-and-Conquer: Frequency-Domain Decoupling Strategy for Low-Light Remote Sensing Image Enhancement[J]. Submitted to *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*. 2025 (SCI Q2 TOP)
 * **Fan G**, Hu S, Zhou J et al. Color and Texture Count Alike: An Underwater Image Enhancement Method via Dual-Attention Fusion[J]. Submitted to *Information Fusion*. 2025 (SCI Q1 TOP)
 *	Zhang X, Xu C, **Fan G** et al. FSCMF: A Dual-Branch Frequency-Spatial Joint Perception Cross-Modality Fusion Network for Visible and Infrared Image Fusion[J]. Submitted to *Neurocomputing*, 2025 (SCI Q2 TOP, ***Corresponding Author***)
 *	Zhou S, Xu C, **Fan G** et al. SigNoma: Saliency Proportion Reconciliatory State Space Model with Squeezed Windows for Remote Sensing Change Detection[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (SCI Q1, CCF B, ***Corresponding Author***)
 *	**Fan G**, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective[C]. *AAAI Conference on Artificial Intelligence*, 2025 (**Accept**, CCF A)
 *	**Fan G**, Gan M, Fan B, et al. Multiscale cross-connected dehazing network with scene depth fusion[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2024, 35(2): 1598-1612.(SCI Q1 TOP, CCF B)
-*	**Fan G**, Zhou J, Cheng Z et al. Deep Dive into Clarity: Leveraging Signal-to-Noise Ratio Awareness and Knowledge Distillation for Underwater Image Enhancement[J]. *Expert Systems with Applications*. 2024, doi: 10.1016/j.eswa.2024.126317 (SCI Q1 TOP, CCF C)
-*	**Fan G**，Yao Z, Gan, M. Illumination-Aware and Structure-Guided Transformer for Low-Light Image Enhancement[J]. *Computer Vision and Image Understanding*. 2024, doi: 10.1016/j.cviu.2024.104276 (SCI Q3, CCF B)
+*	**Fan G**, Zhou J, Cheng Z et al. Deep Dive into Clarity: Leveraging Signal-to-Noise Ratio Awareness and Knowledge Distillation for Underwater Image Enhancement[J]. *Expert Systems with Applications*. 2025, 269: 126317  (SCI Q1 TOP, CCF C)
+*	**Fan G**，Yao Z, Gan, M. Illumination-Aware and Structure-Guided Transformer for Low-Light Image Enhancement[J]. *Computer Vision and Image Understanding*. 2025, 252: 104276. (SCI Q3, CCF B)
 * Su JN, **Fan G**, Chen G et al. Revealing the Dark Side of Non-Local Attention in Single Image Super-Resolution[J]. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. 2024, 46(12): 11476-11490.  (SCI Q1 TOP, CCF A)
 *	Yao Z, **Fan G**, Gan M et al. Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 1-16. (SCI Q1, CCF B, ***Corresponding Author***)
 *	Cheng Z, **Fan G**, Gan M et al. FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder[J]. *IEEE Transactions on Circuits and Systems for Video Technology*, 2024. doi: 10.1109/TCSVT.2024.3482548 (SCI Q1 TOP, CCF B, ***Corresponding Author***)
