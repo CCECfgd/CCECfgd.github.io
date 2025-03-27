@@ -25,6 +25,7 @@ redirect_from:
 - Processing of Remote Sensing Image Data
 
 # Publications
+*	Dong W, **Fan G**, Chen G et al. SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal[J].Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*, 2025 (SCI Q1, CCF B)
 *	Zhang X, **Fan G** et al. Fine-Grained Change Detection in Remote Sensing Images Based on Wavelet Transform and Dual-Frequency Encoding[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (SCI Q1, CCF B, ***Corresponding Author***)
 * **Fan G**, Hu S, Zhou J et al. Color and Texture Count Alike: An Underwater Image Enhancement Method via Dual-Attention Fusion[J]. Submitted to *Information Fusion*. 2025 (SCI Q1 TOP)
 *	Zhang X, Xu C, **Fan G** et al. FSCMF: A Dual-Branch Frequency-Spatial Joint Perception Cross-Modality Fusion Network for Visible and Infrared Image Fusion[J]. Submitted to *Neurocomputing*, 2025 (SCI Q2 TOP, ***Corresponding Author***)
