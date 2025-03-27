@@ -12,10 +12,10 @@ redirect_from:
   
 
 - Shandong Technology and Business University, Yantai, China 09/2018 – 06/2021  
-  *Master of Engineering*
+  *Master of Engineering* Supervisor: Zhen Hua & Jinjiang Li
 
 - Shandong Technology and Business University, Yantai, China 09/2014 – 06/2018  
-  *Bachelor Degree of Engineering*
+  *Bachelor Degree of Engineering* Supervisor: Min Gan
 
 # Research Interests
 - Image Enhancement
