@@ -47,7 +47,7 @@ redirect_from:
 * Hu S, Cheng Z, **Fan G**, et al. Texture-Aware and Color-Consistent Learning For Underwater Image Enhancement[J]. *Journal of Visual Communication and Image Representation*, 2024. 98: 104051. (SCI Q4, CCF C, ***Corresponding Author***)
 
 # Reviewer
-IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Circuits and Systems for Video Technology, IEEETransactions on Industrial Informatics, Pattern Recognition, Computer Vision and Image Understanding, Information Fusion, Engineering Applications of Artificial Intelligence, Expert Systems with Applications, Applied Soft Computing, Signal Processing, Journal of Visual Communication and Image Representation, ICME...
+TIP, TNNLS, TGRS, TCSVT, TII, TIM, TCE, PR, IF, ASC, CVIU, EAAI, ESWA...
 
 # Academic Service
 - Conference Program Committee of the ICME2025 Workshop: Multimedia in Underwater Information Processing and Exploration
