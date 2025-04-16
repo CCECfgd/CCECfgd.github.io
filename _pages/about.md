@@ -12,10 +12,10 @@ redirect_from:
   
 
 - Shandong Technology and Business University, Yantai, China 09/2018 – 06/2021  
-  *Master of Engineering*, Supervisor: Zhen Hua & Jinjiang Li
+  *Master of Engineering, Supervisor: Zhen Hua & Jinjiang Li*
   
 - Shandong Technology and Business University, Yantai, China 09/2014 – 06/2018  
-  *Bachelor Degree of Engineering*, Supervisor: Min Gan
+  *Bachelor Degree of Engineering, Supervisor: Min Gan*
   
 # Research Interests
 - Image Enhancement
@@ -25,12 +25,12 @@ redirect_from:
 - Processing of Remote Sensing Image Data
 
 # Paper
-*	Dong W, **Fan G**, Chen G et al. SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal[J].Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*, 2025 (SCI Q1, CCF B)
-*	Zhang X, **Fan G** et al. Fine-Grained Change Detection in Remote Sensing Images Based on Wavelet Transform and Dual-Frequency Encoding[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (SCI Q1, CCF B, ***Corresponding Author***)
+*	Dong W, **Fan G**, Chen G et al. SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal[J].Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*, 2025 (SCI Q1 TOP, CCF B)
+*	Zhang X, **Fan G** et al. Fine-Grained Change Detection in Remote Sensing Images Based on Wavelet Transform and Dual-Frequency Encoding[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (SCI Q1 TOP, CCF B, ***Corresponding Author***)
 *	Yu X, **Fan G**, Li J. Deep learning-driven 3D marine nitrate estimation: uncertainty mitigation through underwater signal exploitation and label augmentation[J]. Frontiers in Marine Science, 2025, 12: 1576558（SCI Q3, ***Corresponding Author***）
 * **Fan G**, Hu S, Zhou J et al. Color and Texture Count Alike: An Underwater Image Enhancement Method via Dual-Attention Fusion[J]. Submitted to *Information Fusion*. 2025 (Major Revision, SCI Q1 TOP)
 *	Zhang X, Xu C, **Fan G** et al. FSCMF: A Dual-Branch Frequency-Spatial Joint Perception Cross-Modality Fusion Network for Visible and Infrared Image Fusion[J]. Submitted to *Neurocomputing*, 2025 (Major Revision, SCI Q2 TOP, ***Corresponding Author***)
-*	Zhou S, Xu C, **Fan G** et al. SigNoma: Saliency Proportion Reconciliatory State Space Model with Squeezed Windows for Remote Sensing Change Detection[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (Major Revision, SCI Q1, CCF B, ***Corresponding Author***)
+*	Zhou S, Xu C, **Fan G** et al. SigNoma: Saliency Proportion Reconciliatory State Space Model with Squeezed Windows for Remote Sensing Change Detection[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (Major Revision, SCI Q1 TOP, CCF B, ***Corresponding Author***)
 *	**Fan G**, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective[C]. *AAAI Conference on Artificial Intelligence*, 2025, 39(3): 2834-2842 (CCF A)
 *	**Fan G**, Gan M, Fan B, et al. Multiscale cross-connected dehazing network with scene depth fusion[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2024, 35(2): 1598-1612.(SCI Q1 TOP, CCF B)
 *	**Fan G**, Zhou J, Cheng Z et al. Deep Dive into Clarity: Leveraging Signal-to-Noise Ratio Awareness and Knowledge Distillation for Underwater Image Enhancement[J]. *Expert Systems with Applications*. 2025, 269: 126317  (SCI Q1 TOP, CCF C)
@@ -46,7 +46,9 @@ redirect_from:
 *	**Fan G**, Fan B, Gan M, et al. Multiscale low-light image enhancement network with illumination constraint[J]. *IEEE Transactions on Circuits and Systems for Video Technology*, 2022, 32(11): 7403-7417. (SCI Q1 TOP, CCF B)
 *	**Fan G**, Hua Z, Li J. Multi-scale depth information fusion network for image dehazing[J]. *Applied Intelligence*, 2021, 51(10): 7262-7280. (SCI Q2, CCF C)
 * Hu S, Cheng Z, **Fan G**, et al. Texture-Aware and Color-Consistent Learning For Underwater Image Enhancement[J]. *Journal of Visual Communication and Image Representation*, 2024. 98: 104051. (SCI Q4, CCF C, ***Corresponding Author***)
-
+* Sun T, Fan G, Gan M. Fractal pyramid low-light image enhancement network with illumination information[J]. Journal of Electronic Imaging, 2022, DOI: 10.1117/1.JEI.31.4.043050 (SCI Q4, ***Corresponding Author***)
+* Fu L, Fan G, Gan M. Multiscale image dehazing network based on spatially weighted sparse representation[J]. Journal of Electronic Imaging, 2022, DOI: 10.1117/1.JEI.31.6.063015 (SCI Q4, ***Corresponding Author***)
+* Tan M, Fan J, Fan G, et al. Low-light image enhancement via multistage feature fusion network[J]. Journal of Electronic Imaging, 2022, DOI: 10.1117/1.JEI.31.6.063050 (SCI Q4, ***Corresponding Author***)
 # Reviewer
 TIP, TNNLS, TGRS, TCSVT, TII, TIM, TCE, PR, IF, ASC, CVIU, EAAI, ESWA...
 
