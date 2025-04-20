@@ -49,6 +49,7 @@ redirect_from:
 * Sun T, **Fan G**, Gan M. Fractal pyramid low-light image enhancement network with illumination information[J]. Journal of Electronic Imaging, 2022, DOI: 10.1117/1.JEI.31.4.043050 (SCI Q4, ***Corresponding Author***)
 * Fu L, **Fan G**, Gan M. Multiscale image dehazing network based on spatially weighted sparse representation[J]. Journal of Electronic Imaging, 2022, DOI: 10.1117/1.JEI.31.6.063015 (SCI Q4, ***Corresponding Author***)
 * Tan M, Fan J, **Fan G**, et al. Low-light image enhancement via multistage feature fusion network[J]. Journal of Electronic Imaging, 2022, DOI: 10.1117/1.JEI.31.6.063050 (SCI Q4, ***Corresponding Author***)
+  
 # Reviewer
 TIP, TNNLS, TGRS, TCSVT, TII, TIM, TCE, PR, IF, ASC, CVIU, EAAI, ESWA...
 
