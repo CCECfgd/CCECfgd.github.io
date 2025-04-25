@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 # Education
-- Qingdao University, Qingdao, China 09/2021 – Now  
-  *Ph.D. in Software Engineering*
+- Qingdao University, Qingdao, China 09/2021 – 06/2025  
+  *Ph.D. in Software Engineering, Supervisor: Min Gan*
   
 
 - Shandong Technology and Business University, Yantai, China 09/2018 – 06/2021  
   *Master of Engineering, Supervisor: Zhen Hua & Jinjiang Li*
   
 - Shandong Technology and Business University, Yantai, China 09/2014 – 06/2018  
-  *Bachelor Degree of Engineering, Supervisor: Min Gan*
+  *Bachelor Degree of Engineering*
   
 # Research Interests
 - Image Enhancement
