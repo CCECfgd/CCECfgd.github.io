@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Education
 - Qingdao University, Qingdao, China 09/2021 – 06/2025  
-  *Ph.D. in Software Engineering, Supervisor: Min Gan*
+  *Ph.D. in Software Engineering, Supervisor: Min Gan & Guang-Yong Chen*
   
 
 - Shandong Technology and Business University, Yantai, China 09/2018 – 06/2021  
