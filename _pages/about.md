@@ -26,7 +26,6 @@ redirect_from:
 
 # Paper
 *	Dong W, **Fan G**, Chen G et al. SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal[J].Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*, 2025 (SCI Q1 TOP, CCF B)
-*	Zhang X, **Fan G** et al. Fine-Grained Change Detection in Remote Sensing Images Based on Wavelet Transform and Dual-Frequency Encoding[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (SCI Q1 TOP, CCF B, ***Corresponding Author***)
 *	Yu X, **Fan G**, Li J. Deep learning-driven 3D marine nitrate estimation: uncertainty mitigation through underwater signal exploitation and label augmentation[J]. Frontiers in Marine Science, 2025, 12: 1576558（SCI Q3, ***Corresponding Author***）
 * **Fan G**, Hu S, Zhou J et al. Color and Texture Count Alike: An Underwater Image Enhancement Method via Dual-Attention Fusion[J]. Submitted to *Information Fusion*. 2025 (Major Revision, SCI Q1 TOP)
 *	Zhang X, Xu C, **Fan G** et al. FSCMF: A Dual-Branch Frequency-Spatial Joint Perception Cross-Modality Fusion Network for Visible and Infrared Image Fusion[J]. *Neurocomputing*, 2025 (Accept, SCI Q2, ***Corresponding Author***)
