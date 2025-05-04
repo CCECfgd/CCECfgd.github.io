@@ -45,10 +45,6 @@ redirect_from:
 * Fan J, **Fan G**, Gan M. Multi-axis Feature Embedded Interactive Network for Low-light Image Enhancement[C]. *IEEE Smart World Congress-UIC*. IEEE, 2023: 1-8.(CCF C, ***Corresponding Author***)
 *	**Fan G**, Fan B, Gan M, et al. Multiscale low-light image enhancement network with illumination constraint[J]. *IEEE Transactions on Circuits and Systems for Video Technology*, 2022, 32(11): 7403-7417. (SCI Q1 TOP, CCF B)
 *	**Fan G**, Hua Z, Li J. Multi-scale depth information fusion network for image dehazing[J]. *Applied Intelligence*, 2021, 51(10): 7262-7280. (SCI Q2, CCF C)
-* Hu S, Cheng Z, **Fan G**, et al. Texture-Aware and Color-Consistent Learning For Underwater Image Enhancement[J]. *Journal of Visual Communication and Image Representation*, 2024. 98: 104051. (SCI Q4, CCF C, ***Corresponding Author***)
-* Sun T, **Fan G**, Gan M. Fractal pyramid low-light image enhancement network with illumination information[J]. Journal of Electronic Imaging, 2022, DOI: 10.1117/1.JEI.31.4.043050 (SCI Q4, ***Corresponding Author***)
-* Fu L, **Fan G**, Gan M. Multiscale image dehazing network based on spatially weighted sparse representation[J]. Journal of Electronic Imaging, 2022, DOI: 10.1117/1.JEI.31.6.063015 (SCI Q4, ***Corresponding Author***)
-* Tan M, Fan J, **Fan G**, et al. Low-light image enhancement via multistage feature fusion network[J]. Journal of Electronic Imaging, 2022, DOI: 10.1117/1.JEI.31.6.063050 (SCI Q4, ***Corresponding Author***)
   
 # Reviewer
 TIP, TNNLS, TGRS, TCSVT, TII, TIM, TCE, PR, IF, ASC, CVIU, EAAI, ESWA...
