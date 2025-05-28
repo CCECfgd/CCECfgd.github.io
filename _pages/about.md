@@ -26,7 +26,7 @@ redirect_from:
 
 # Paper
 * **Fan G**, Zhou S, Li J et al. LLaVA-Based Semantic Feature Modulation Diffusion Model for Underwater Image Enhancement[J]. Submitted to *Information Fusion*. 2025 (Under Review, SCI Q1 TOP)
-*	Chen G, Chen B, **Fan G** et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*, 2025 (Under Review, SCI Q1 TOP, CCF B, ***Corresponding Author***)
+*	Chen G, Chen B, **Fan G** et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*. 2025 (Under Review, SCI Q1 TOP, CCF B, ***Corresponding Author***)
 *	Dong W, **Fan G**, Chen G et al. SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal[J]. Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*, 2025 (SCI Q1 TOP, CCF B)
 *	Zhang X, Wang S, **Fan G** et al. Fine-Grained Change Detection in Remote Sensing Images Based on Wavelet Transform and Dual-Frequency Encoding[J]. Submitted to *Expert Systems With Applications*, 2025 (SCI Q1 TOP, ***Corresponding Author***)
 *	Yu X, **Fan G**, Li J. Deep learning-driven 3D marine nitrate estimation: uncertainty mitigation through underwater signal exploitation and label augmentation[J]. Frontiers in Marine Science, 2025, 12: 1576558（SCI Q3, ***Corresponding Author***）
