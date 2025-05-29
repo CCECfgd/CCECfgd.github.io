@@ -26,7 +26,7 @@ redirect_from:
 
 # Paper
 * **Fan G**, Zhou S, Li J et al. LLaVA-Based Semantic Feature Modulation Diffusion Model for Underwater Image Enhancement[J]. Submitted to *Information Fusion*, 2025 (Under Review, SCI Q1 TOP)
-*	Chen GY, Chen B, **Fan G** et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*, 2025 (Under Review, SCI Q1 TOP, CCF B, ***Corresponding Author***)
+*	**Fan G**, Chen B, Chen GY et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*, 2025 (Under Review, SCI Q1 TOP, CCF B, ***Corresponding Author***)
 *	Dong W, **Fan G**, Chen GY et al. SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal[J]. Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*, 2025 (Under Review, SCI Q1 TOP, CCF B)
 *	Zhuang B, Yao Z, **Fan G** et al. Divide-and-Conquer: Frequency-Domain Decoupling Strategy for Low-Light Remote Sensing Image Enhancement[J]. Submitted to *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025 (Under Review, SCI Q2, CCF B, ***Corresponding Author***)
 *	Zhang X, Wang S, **Fan G** et al. Fine-Grained Change Detection in Remote Sensing Images Based on Wavelet Transform and Dual-Frequency Encoding[J]. Submitted to *Expert Systems With Applications*, 2025 (SCI Q1 TOP, ***Corresponding Author***)
