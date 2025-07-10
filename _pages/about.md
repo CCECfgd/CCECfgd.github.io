@@ -25,7 +25,8 @@ redirect_from:
 - Processing of Remote Sensing Image Data
 
 # Paper
-* Wang S, **Fan G**, Li J et al. MGCR-Net:Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, ***Corresponding Author***)
+* Wang Y,  Li J, **Fan G**, et al. Prototype-Driven Structure Synergy Network for Remote Sensing Images Segmentation[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, ***Corresponding Author***)
+* Wang C, **Fan G**, Li J et al. MGCR-Net:Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, ***Corresponding Author***)
 * **Fan G**, Zhou S, Li J et al. LLaVA-Based Semantic Feature Modulation Diffusion Model for Underwater Image Enhancement[J]. Submitted to *Information Fusion*, 2025 (Major Revision, SCI Q1 TOP, IF: 15.5)
 *	**Fan G**, Chen B, Chen GY et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to *IEEE Transactions on Circuits and Systems for Video Technology*, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 11.1, ***Corresponding Author***)
 * **Fan G**, Hu S, Zhou J et al. Color and Texture Count Alike: An Underwater Image Enhancement Method via Dual-Attention Fusion[J]. Submitted to *Information Fusion*. 2025 (Major Revision, SCI Q1 TOP, IF: 15.5)
