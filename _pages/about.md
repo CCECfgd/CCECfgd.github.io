@@ -25,7 +25,7 @@ redirect_from:
 - Processing of Remote Sensing Image Data
 
 # Paper
-<ol start="100">
+<ol start="1">
   <li>Wang Y,  Li J, **Fan G**, et al. Prototype-Driven Structure Synergy Network for Remote Sensing Images Segmentation[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, ***Corresponding Author***)</li>
   <li>Wang C, **Fan G**, Li J et al. MGCR-Net:Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, ***Corresponding Author***)</li>
 </ol>
