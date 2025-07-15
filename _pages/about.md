@@ -26,7 +26,6 @@ redirect_from:
 
 # Paper
 <ol start="1">
-  <li>Wang C, <b>Fan G</b>, Li J et al. MGCR-Net:Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
 
  <li>Wang Y,  Li J, <b>Fan G</b>, et al. Prototype-Driven Structure Synergy Network for Remote Sensing Images Segmentation[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
  <li>Wang C, <b>Fan G</b>, Li J et al. MGCR-Net:Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
