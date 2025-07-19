@@ -48,13 +48,7 @@ redirect_from:
  <li>	Yao Z, <b>Fan G</b>, Gan M et al. Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-16. (SCI Q1, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
  <li>	Yao Z, Su J, <b>Fan G</b>, Gan M et al. GACA: A Gradient-Aware and Contrastive-Adaptive Learning Framework for Low-Light Image Enhancement[J]. IEEE Transactions on Instrumentation & Measurement, 2024, 73: 1-14 (SCI Q2 TOP, IF: 5.9, <b>Corresponding Author</b>)</li>
  <li>	Hu S, <b>Fan G</b>, Gan M et al. Hybrid Network via Key Feature Fusion for Image Restoration[J]. Engineering Applications of Artificial Intelligence. 2024, 137: 109236. (SCI Q2 TOP, IF: 8.0, <b>Corresponding Author</b>)</li>
- <li>	Fu L,  <b>Fan G</b>, Gan M. Multiscale image dehazing network based on spatially weighted sparse representation[J]. Journal of Electronic Imaging, 2022, 31(6): 063015.(SCI Q4, IF: 1, <b>Corresponding Author</b>)</li>
- <li>	Tan M, Fan J,  <b>Fan G</b> et al. Low-light image enhancement via multistage feature fusion network[J]. Journal of Electronic Imaging, 2022, 31(6): 063050.(SCI Q4, IF: 1, <b>Corresponding Author</b>)</li>
- <li>	Sun T,  <b>Fan G</b>, Gan M. Fractal pyramid low-light image enhancement network with illumination information[J]. Journal of Electronic Imaging, 2022, 31(4): 043050.(SCI Q4, IF: 1, <b>Corresponding Author</b>)</li>
- <li>	Hu S, Cheng Z,  <b>Fan G</b>, et al. Texture-Aware and Color-Consistent Learning For Underwater Image Enhancement[J]. Journal of Visual Communication and Image Representation, 2024. 98: 104051. (SCI Q4, IF: 3.1, <b>Corresponding Author</b>)</li>
- <li> Fan J, <b>Fan G</b>, Gan M. Multi-axis Feature Embedded Interactive Network for Low-light Image Enhancement[C]. IEEE Smart World Congress-UIC. IEEE, 2023: 1-8.(CCF C, <b>Corresponding Author</b>)</li>
  <li>	<b>Fan G</b>, Fan B, Gan M, et al. Multiscale low-light image enhancement network with illumination constraint[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(11): 7403-7417. (SCI Q1 TOP, CCF B, IF: 11.1)</li>
- <li>	<b>Fan G</b>, Hua Z, Li J. Multi-scale depth information fusion network for image dehazing[J]. Applied Intelligence, 2021, 51(10): 7262-7280. (SCI Q2, CCF C, IF: 3.5)</li>
 </ol>
 # Reviewer
 TIP, TNNLS, TGRS, TCSVT, TII, TIM, TCE, PR, IF, ASC, CVIU, EAAI, ESWA...
