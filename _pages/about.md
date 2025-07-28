@@ -50,6 +50,7 @@ redirect_from:
  <li>	Hu S, <b>Fan G</b>, Gan M et al. Hybrid Network via Key Feature Fusion for Image Restoration[J]. Engineering Applications of Artificial Intelligence. 2024, 137: 109236. (SCI Q2 TOP, IF: 8.0, <b>Corresponding Author</b>)</li>
  <li>	<b>Fan G</b>, Fan B, Gan M, et al. Multiscale low-light image enhancement network with illumination constraint[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(11): 7403-7417. (SCI Q1 TOP, CCF B, IF: 11.1)</li>
 </ol>
+
 # Reviewer
 TPAMI, TIP, AAAI, TNNLS, TGRS, TCSVT, TII, TIM, TCE, PR, IF, ASC, CVIU, EAAI, ESWA, KBS...
 
