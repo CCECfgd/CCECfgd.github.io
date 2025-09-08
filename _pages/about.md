@@ -28,7 +28,7 @@ redirect_from:
 <ol start="1">
   
 <li>Mou Y,  Song J, <b>Fan G</b>, et al. Dynamic Dual-Branch Interaction Network for Hyperspectral and Multispectral Image Fusion[J]. Submitted to Neurocomputing, 2025 (Under Review, SCI Q2, CCF C, IF: 6.5, <b>Corresponding Author</b>)</li>
- <li>Wang C, <b>Fan G</b>, Li J et al. MGCR-Net:Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
+ <li>Wang C, <b>Fan G</b>, Li J et al. MGCR-Net: Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
  <li> Zhang X, Li J, <b>Fan G</b> et al. SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion[J]. Submitted to Information Fusion, 2025 (Under Review, SCI Q1 TOP, IF: 15.5, <b>Corresponding Author</b>)</li> 
  <li>	<b>Fan G</b>, Chen B, Chen GY et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to IEEE Transactions on Circuits and Systems for Video Technology, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 11.1)</li>
 
