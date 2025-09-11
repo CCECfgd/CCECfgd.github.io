@@ -33,7 +33,7 @@ redirect_from:
  <li>	<b>Fan G</b>, Chen B, Chen GY et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to IEEE Transactions on Circuits and Systems for Video Technology, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 11.1)</li>
 
 <li>Zhou Yu,  Zhou J, Ju Y, <b>Fan G</b>, et al. DCD-UIE: Decoupled Chromatic Diffusion Model for Underwater Image Enhancement[J]. Submitted to IEEE Transactions on Image Processing, 2025 (Under Review, SCI Q1 TOP, CCF A, IF: 13.7, <b>Corresponding Author</b>)</li>
- <li> <b>Fan G</b>, Hu S, Zhou J et al. Color and Texture Count Alike: An Underwater Image Enhancement Method via Dual-Attention Fusion[J]. Submitted to Information Fusion, 2025 (Major Revision, SCI Q1 TOP, IF: 15.5)</li>
+ <li> <b>Fan G</b>, Hu S, Zhou J et al. Color and Texture Count Alike: An Underwater Image Enhancement Method via Dual-Attention Fusion[J]. Submitted to Information Fusion, 2025 (Minor Revision, SCI Q1 TOP, IF: 15.5)</li>
 <li>Wang J,  Li J, <b>Fan G</b>, et al. Prototype-Driven Structure Synergy Network for Remote Sensing Images Segmentation[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025 (Major Revision, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
 
 <li> <b>Fan G</b>, Zhou S, Li J et al. Fan G, Zhou S, Hua Z, et al. LLaVA-based Semantic Feature Modulation Diffusion Model for Underwater Image Enhancement[J]. Information Fusion, 2025: 103566 (SCI Q1 TOP, IF: 15.5)</li>
