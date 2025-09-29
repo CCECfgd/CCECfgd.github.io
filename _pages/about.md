@@ -28,11 +28,12 @@ redirect_from:
 <ol start="1">
   
 
- <li>Wang C, <b>Fan G</b>, Li J et al. MGCR-Net: Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
+
  <li> Zhang X, Li J, <b>Fan G</b> et al. SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion[J]. Submitted to Information Fusion, 2025 (Under Review, SCI Q1 TOP, IF: 15.5, <b>Corresponding Author</b>)</li> 
  <li>	<b>Fan G</b>, Chen B, Chen GY et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to IEEE Transactions on Circuits and Systems for Video Technology, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 11.1)</li>
 <li>Mou Y,  Zhou Y, <b>Fan G</b>, et al. Dynamic Dual-Branch Interaction Network for Hyperspectral and Multispectral Image Fusion[J]. Submitted to Computer Vision and Image Understanding, 2025 (Under Review, SCI Q3, CCF B, IF: 3.5, <b>Corresponding Author</b>)</li>
 <li><b>Fan G</b>, Zhou Y,  Zhou J, Ju Y et al. DCD-UIE: Decoupled Chromatic Diffusion Model for Underwater Image Enhancement[J]. Submitted to IEEE Transactions on Image Processing, 2025 (Under Review, SCI Q1 TOP, CCF A, IF: 13.7, <b>Corresponding Author</b>)</li>
+ <li>Wang C, <b>Fan G</b>, Li J et al. MGCR-Net: Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025 (Major Revision, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
 <li>Wang J,  Li J, <b>Fan G</b>, et al. Prototype-Driven Structure Synergy Network for Remote Sensing Images Segmentation[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025 (Major Revision, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
 <li> <b>Fan G</b>, Hu S, Zhou J et al. Color and Texture Count Alike: An Underwater Image Enhancement Method via Dual-Attention Fusion[J]. Information Fusion, 2025, DOI: 10.1016/j.inffus.2025.103780 (SCI Q1 TOP, IF: 15.5)</li>
 <li> <b>Fan G</b>, Zhou S, Li J et al. Fan G, Zhou S, Hua Z, et al. LLaVA-based Semantic Feature Modulation Diffusion Model for Underwater Image Enhancement[J]. Information Fusion, 2025: 103566 (SCI Q1 TOP, IF: 15.5)</li>
