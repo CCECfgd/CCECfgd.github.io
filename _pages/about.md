@@ -28,7 +28,7 @@ redirect_from:
 <ol start="1">
   
 
-
+<li><b>Fan G</b>, Wang S, Ju Y et al.  TAMamba: Texture-Aware Mamba with Physical-Oriented Scanning for Robust Infrared Small Target Detection[J]. Submitted to IEEE Transaction on Image Processing, 2025 (Under Review, SCI Q1 TOP, CCF A, IF: 13.5)</li> 
  <li> Zhang X, Li J, <b>Fan G</b> et al. SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion[J]. Submitted to Information Fusion, 2025 (Under Review, SCI Q1 TOP, IF: 15.5, <b>Corresponding Author</b>)</li> 
  <li>	<b>Fan G</b>, Chen B, Chen GY et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to IEEE Transactions on Circuits and Systems for Video Technology, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 11.1)</li>
 <li>Mou Y,  Zhou Y, <b>Fan G</b>, et al. Dynamic Dual-Branch Interaction Network for Hyperspectral and Multispectral Image Fusion[J]. Submitted to Computer Vision and Image Understanding, 2025 (Under Review, SCI Q3, CCF B, IF: 3.5, <b>Corresponding Author</b>)</li>
