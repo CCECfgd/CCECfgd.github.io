@@ -29,7 +29,9 @@ redirect_from:
   
 
 <li><b>Fan G</b>, Wang S, Ju Y et al.  TAMamba: Texture-Aware Mamba with Physical-Oriented Scanning for Robust Infrared Small Target Detection[J]. Submitted to IEEE Transaction on Image Processing, 2025 (Under Review, SCI Q1 TOP, CCF A, IF: 13.5)</li> 
+ <li> Zhang X, <b>Fan G</b>, Hua Z, et al. Wavelet-Guided Dual-Frequency Encoding for Remote Sensing Fine-Grained Change Detection[J]. Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2025 (Under Review, SCI Q2, IF: 5.7, <b>Corresponding Author</b>)</li>
  <li> Zhang X, Li J, <b>Fan G</b> et al. SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion[J]. Submitted to Information Fusion, 2025 (Under Review, SCI Q1 TOP, IF: 15.5, <b>Corresponding Author</b>)</li> 
+ <li><b>Fan G</b>, Zhou Y, Ju Y et al. DCD-UIE: Decoupled Chromatic Diffusion Model for Underwater Image Enhancement[J]. Submitted to IEEE Transaction on Image Processing, 2025 (Under Review, SCI Q1 TOP, CCF A, IF: 13.5)</li> 
  <li>	<b>Fan G</b>, Chen B, Chen GY et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to IEEE Transactions on Circuits and Systems for Video Technology, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 11.1)</li>
 <li>Mou Y,  Zhou Y, <b>Fan G</b>, et al. Dynamic Dual-Branch Interaction Network for Hyperspectral and Multispectral Image Fusion[J]. Submitted to Computer Vision and Image Understanding, 2025 (Under Review, SCI Q3, CCF B, IF: 3.5, <b>Corresponding Author</b>)</li>
 
@@ -40,7 +42,7 @@ redirect_from:
  <li>	Zhou S, Xu C, <b>Fan G</b> et al. SPRmamba: A mamba-based saliency proportion reconciliatory network with squeezed windows for remote sensing change detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 1-16 (SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
  <li>	Dong W, <b>Fan G</b>, Chen GY et al. SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025, DOI: 10.1109/TCSVT.2025.3595933 (SCI Q1 TOP, CCF B, IF: 11.1, <b>Corresponding Author</b>)</li>
  <li>	Zhuang B, Yao Z, <b>Fan G</b> et al. Divide-and-Conquer: Frequency-Domain Decoupling Strategy for Low-Light Remote Sensing Image Enhancement[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, DOI: 10.1109/JSTARS.2025.3611820 (SCI Q2, IF: 5.3, <b>Corresponding Author</b>)</li>
- <li> Zhang X, <b>Fan G</b>, Hua Z, et al. Wavelet-Guided Dual-Frequency Encoding for Remote Sensing Fine-Grained Change Detection[J]. Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2025 (Under Review, SCI Q2, IF: 5.7, <b>Corresponding Author</b>)</li>
+
  <li>	<b>Fan G</b>, Zhou J, Cheng Z et al. Deep Dive into Clarity: Leveraging Signal-to-Noise Ratio Awareness and Knowledge Distillation for Underwater Image Enhancement[J]. Expert Systems with Applications, 2025, 269: 126317  (SCI Q1 TOP, CCF C, IF: 7.5)</li>
  <li>	<b>Fan G</b>，Yao Z, Gan, M. Illumination-Aware and Structure-Guided Transformer for Low-Light Image Enhancement[J]. Computer Vision and Image Understanding, 2025, 252: 104276. (SCI Q3, CCF B, IF: 3.5)</li>
  <li>	Cheng Z, <b>Fan G</b>, Gan M et al. FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025, 35(2): 1728-1744 (SCI Q1 TOP, CCF B, IF: 11.1, <b>Corresponding Author</b>)</li>
