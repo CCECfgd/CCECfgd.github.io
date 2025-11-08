@@ -30,7 +30,6 @@ redirect_from:
 
 <li><b>Fan G</b>, Wang S, Ju Y et al.  TAMamba: Texture-Aware Mamba with Physical-Oriented Scanning for Robust Infrared Small Target Detection[J]. Submitted to IEEE Transaction on Image Processing, 2025 (Under Review, SCI Q1 TOP, CCF A, IF: 13.5)</li> 
  <li>Zhang F, Liu D, Ju Y, <b>Fan G</b>. Dual-Gated Transformer with Local Context Aggregation for Weakly-Supervised Medical lmage Anomaly Detection[J]. Submitted to Pattern Recognition, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
-<li>Zhang F, <b>Fan G</b>, Wang H et al. U-DiffKAN: Unified Diffusion-KAN Framework with Wavelet Decoding for Multi-Scale Medical Image Segmentation[J]. Submitted to IEEE Journal of Biomedical and Health Informatics, 2025 (Under Review, SCI Q2 TOP, IF: 6.8, <b>Corresponding Author</b>)</li>
  <li> Zhang X, <b>Fan G</b>, Hua Z, et al. Wavelet-Guided Dual-Frequency Encoding for Remote Sensing Fine-Grained Change Detection[J]. Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2025 (Under Review, SCI Q2, IF: 5.7, <b>Corresponding Author</b>)</li>
 
  <li><b>Fan G</b>, Zhou Y, Ju Y et al. DCD-UIE: Decoupled Chromatic Diffusion Model for Underwater Image Enhancement[J]. Submitted to IEEE Transaction on Image Processing, 2025 (Under Review, SCI Q1 TOP, CCF A, IF: 13.5)</li> 
