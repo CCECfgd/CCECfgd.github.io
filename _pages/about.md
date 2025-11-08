@@ -27,7 +27,7 @@ redirect_from:
 # Paper
 <ol start="1">
   
-
+ <li>	<b>Fan G</b>, Zhou S, Yuan G et al. Empowering Semantic-Sensitive Underwater Image Enhancement with VLM[C]. AAAI Conference on Artificial Intelligence, 2026(Accept, Oral, CCF A)</li>
 <li><b>Fan G</b>, Wang S, Ju Y et al.  TAMamba: Texture-Aware Mamba with Physical-Oriented Scanning for Robust Infrared Small Target Detection[J]. Submitted to IEEE Transaction on Image Processing, 2025 (Under Review, SCI Q1 TOP, CCF A, IF: 13.5)</li> 
  <li>Zhang F, Liu D, Ju Y, <b>Fan G</b>. Dual-Gated Transformer with Local Context Aggregation for Weakly-Supervised Medical lmage Anomaly Detection[J]. Submitted to Pattern Recognition, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 <li>Zhang F, <b>Fan G</b>, Wang H et al. U-DiffKAN: Unified Diffusion-KAN Framework with Wavelet Decoding for Multi-Scale Medical Image Segmentation[J]. Submitted to IEEE Journal of Biomedical and Health Informatics, 2025 (Under Review, SCI Q2 TOP, IF: 6.8, <b>Corresponding Author</b>)</li>
