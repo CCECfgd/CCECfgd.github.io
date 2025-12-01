@@ -27,7 +27,7 @@ redirect_from:
 # Paper
 <ol start="1">
   
-
+<li>Zhou S, Yang Y, <b>Fan G</b>, et al. WCI-Mamba: Overcoming Intensity Inhomogeneity in Remote Sensing Image Segmentation[J]. Submitted to Pattern Recognition, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 
 <li>Wang J, Xiao Y, <b>Fan G</b>, et al. Revisiting Frequency Domain Learning in Remote Sensing Image Segmentation: A Gradient Statistics Perspective[J]. Submitted to ISPRS Journal of Photogrammetry and Remote Sensing, 2025 (Under Review, SCI Q1 TOP, IF: 12.2)</li> 
 <li>Chen H, <b>Fan G</b>, Li J, et al. A Pyramid Frequency Query Guided Network for Remote Sensing Image Segmentation[J]. Submitted to Applied Soft Computing, 2025 (Under Review, SCI Q2 TOP, IF: 6.6, <b>Corresponding Author</b>)</li>
