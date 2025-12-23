@@ -26,7 +26,7 @@ redirect_from:
 
 # Paper
 <ol start="1">
- <li>Zhou Y, Chen J, <b>Fan G</b> et al. A Geometry-Aware Perspective Image Enhancer toward Underwater 3D Reconstruction[J]. Submitted to Ocean Engineering, 2025 (Under Review, SCI Q2 TOP, CCF B, IF: 5.5, <b>Corresponding Author</b>)</li>
+
 <li>Zhou S, Yang Y, <b>Fan G</b> et al. WCI-Mamba: Overcoming Intensity Inhomogeneity in Remote Sensing Image Segmentation[J]. Submitted to Pattern Recognition, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 
 <li>Wang J, Xiao Y, <b>Fan G</b> et al. Revisiting Frequency Domain Learning in Remote Sensing Image Segmentation: A Gradient Statistics Perspective[J]. Submitted to ISPRS Journal of Photogrammetry and Remote Sensing, 2025 (Under Review, SCI Q1 TOP, IF: 12.2)</li> 
@@ -49,8 +49,6 @@ redirect_from:
 
  <li>	Dong W, <b>Fan G</b>, Chen GY et al. SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025, DOI: 10.1109/TCSVT.2025.3595933 (SCI Q1 TOP, CCF B, IF: 11.1, <b>Corresponding Author</b>)</li>
  
- <li>	<b>Fan G</b>, Zhou J, Cheng Z et al. Deep Dive into Clarity: Leveraging Signal-to-Noise Ratio Awareness and Knowledge Distillation for Underwater Image Enhancement[J]. Expert Systems with Applications, 2025, 269: 126317  (SCI Q1 TOP, CCF C, IF: 7.5)</li>
- <li>	<b>Fan G</b>，Yao Z, Gan, M. Illumination-Aware and Structure-Guided Transformer for Low-Light Image Enhancement[J]. Computer Vision and Image Understanding, 2025, 252: 104276. (SCI Q3, CCF B, IF: 3.5)</li>
  <li>	Cheng Z, <b>Fan G</b>, Gan M et al. FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025, 35(2): 1728-1744 (SCI Q1 TOP, CCF B, IF: 11.1, <b>Corresponding Author</b>)</li>
  <li>	Chen GY, Dong W, <b>Fan G</b> et al. LPFSformer: Location Prior Guided Frequency and Spatial Interactive Learning for Nighttime Flare Removal[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025, 35(4): 3706-3718 (SCI Q1 TOP，CCF B, IF: 11.1, <b>Corresponding Author</b>)</li>
 
