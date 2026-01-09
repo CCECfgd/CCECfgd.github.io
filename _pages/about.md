@@ -46,10 +46,10 @@ redirect_from:
 <li>Wang J,  Li J, <b>Fan G</b> et al. Prototype-Driven Structure Synergy Network for Remote Sensing Images Segmentation[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025, DOI: 10.1109/TGRS.2025.3622574 (SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
 <li> <b>Fan G</b>, Hu S, Zhou J et al. Color and Texture Count Alike: An Underwater Image Enhancement Method via Dual-Attention Fusion[J]. Information Fusion, 2025, DOI: 10.1016/j.inffus.2025.103780 (SCI Q1 TOP, IF: 15.5)</li>
 <li> <b>Fan G</b>, Zhou S, Li J et al. Fan G, Zhou S, Hua Z et al. LLaVA-based Semantic Feature Modulation Diffusion Model for Underwater Image Enhancement[J]. Information Fusion, 2025: 103566 (SCI Q1 TOP, IF: 15.5)</li>
-
+<li> Zhang X,<b>Fan G</b>, Li J et al. FSCMF: A Dual-Branch Frequency-Spatial Joint Perception Cross-Modality Network for visible and infrared image fusion[J]. Neurocomputing, 2025: 130376 (SCI Q2 TOP, <b>High cite paper & Hot Paper</b>, <b>Corresponding Author</b>)</li>
  <li>	Dong W, <b>Fan G</b>, Chen GY et al. SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025, DOI: 10.1109/TCSVT.2025.3595933 (SCI Q1 TOP, CCF B, IF: 11.1, <b>Corresponding Author</b>)</li>
  
- <li>	Cheng Z, <b>Fan G</b>, Gan M et al. FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025, 35(2): 1728-1744 (SCI Q1 TOP, CCF B, IF: 11.1, <b>Corresponding Author</b>)</li>
+ <li>	Cheng Z, <b>Fan G</b>, Gan M et al. FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025, 35(2): 1728-1744 (SCI Q1 TOP, CCF B, <b>High cite paper, IF: 11.1<\b>, <b>Corresponding Author</b>)</li>
  <li>	Chen GY, Dong W, <b>Fan G</b> et al. LPFSformer: Location Prior Guided Frequency and Spatial Interactive Learning for Nighttime Flare Removal[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025, 35(4): 3706-3718 (SCI Q1 TOP，CCF B, IF: 11.1, <b>Corresponding Author</b>)</li>
 
  <li>	<b>Fan G</b>, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective[C]. AAAI Conference on Artificial Intelligence, 2025, 39(3): 2834-2842 (CCF A)</li>
