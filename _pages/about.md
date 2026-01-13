@@ -26,20 +26,14 @@ redirect_from:
 
 # Paper
 <ol start="1">
+<li>Zhou S, Yang Y, <b>Fan G</b> et al. WCI-Mamba: Overcoming Intensity Inhomogeneity in Remote Sensing Image Segmentation[J]. Submitted to Pattern Recognition, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 
-<li>Zhou S, Yang Y, <b>Fan G</b> et al. WCI-Mamba: Overcoming Intensity Inhomogeneity in Remote Sensing Image Segmentation[J]. Submitted to Pattern Recognition, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
+ <li>Zhang F, Liu D, Ju Y, <b>Fan G</b>. Dual-Gated Transformer with Local Context Aggregation for Weakly-Supervised Medical lmage Anomaly Detection[J]. Submitted to Pattern Recognition, 2026 (Major Revision, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 
-<li>Wang J, Xiao Y, <b>Fan G</b> et al. Revisiting Frequency Domain Learning in Remote Sensing Image Segmentation: A Gradient Statistics Perspective[J]. Submitted to ISPRS Journal of Photogrammetry and Remote Sensing, 2025 (Under Review, SCI Q1 TOP, IF: 12.2)</li> 
+ <li> Zhang X, <b>Fan G</b>, Hua Z et al. Wavelet-Guided Dual-Frequency Encoding for Remote Sensing Fine-Grained Change Detection[J]. Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2026 (Major Revision, SCI Q2, IF: 5.7, <b>Corresponding Author</b>)</li>
 
-<li><b>Fan G</b>, Wang S, Ju Y et al.  TAMamba: Texture-Aware Mamba with Physical-Oriented Scanning for Robust Infrared Small Target Detection[J]. Submitted to IEEE Transaction on Image Processing, 2025 (Under Review, SCI Q1 TOP, CCF A, IF: 13.5)</li> 
- <li>Zhang F, Liu D, Ju Y, <b>Fan G</b>. Dual-Gated Transformer with Local Context Aggregation for Weakly-Supervised Medical lmage Anomaly Detection[J]. Submitted to Pattern Recognition, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
-
- <li>	<b>Fan G</b>, Chen B, Chen GY et al. Depth-Aware Underwater Image Enhancement via Hierarchical Collaborative Learning[J]. Submitted to IEEE Transactions on Circuits and Systems for Video Technology, 2025 (Under Review, SCI Q1 TOP, CCF B, IF: 11.1)</li>
-
- <li> Zhang X, <b>Fan G</b>, Hua Z et al. Wavelet-Guided Dual-Frequency Encoding for Remote Sensing Fine-Grained Change Detection[J]. Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2025 (Major Revision, SCI Q2, IF: 5.7, <b>Corresponding Author</b>)</li>
-
- <li> Zhang X, Li J, <b>Fan G</b> et al. SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion[J]. Submitted to Information Fusion, 2025 (Major Revision, SCI Q1 TOP, IF: 15.5, <b>Corresponding Author</b>)</li> 
- <li>Wang C, <b>Fan G</b>, Li J et al. MGCR-Net: Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025 (Major Revision, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
+ <li> Zhang X, Li J, <b>Fan G</b> et al. SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion[J]. Submitted to Information Fusion, 2026 (Major Revision, SCI Q1 TOP, IF: 15.5, <b>Corresponding Author</b>)</li> 
+ <li>Wang C, <b>Fan G</b>, Li J et al. MGCR-Net: Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2026 (Accept, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
  <li><b>Fan G</b>, Zhou Y, Ju Y et al. DCD-UIE: Decoupled Chromatic Diffusion Model for Underwater Image Enhancement[J]. IEEE Transaction on Image Processing, 2026, DOI: 10.1109/TIP.2025.3648875 (SCI Q1 TOP, CCF A, IF: 13.5)</li> 
   <li>	<b>Fan G</b>, Zhou S, Yuan G et al. Empowering Semantic-Sensitive Underwater Image Enhancement with VLM[C]. AAAI Conference on Artificial Intelligence, 2026 (Accept, <b>Oral</b>, CCF A)</li>
   <li>	Zhou S, Xu C, <b>Fan G</b> et al. SPRmamba: A mamba-based saliency proportion reconciliatory network with squeezed windows for remote sensing change detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 1-16 (SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
