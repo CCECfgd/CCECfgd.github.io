@@ -64,7 +64,7 @@ redirect_from:
 </ol>
 
 # Reviewer
-TPAMI, TIP, CVPR, AAAI, TNNLS, TMM, TGRS, TCSVT, TII, TIM, TCE, PR, IF, ASC, CVIU, EAAI, ESWA, KBS...
+TPAMI, TIP, CVPR, AAAI, ECCV, TCYB, TNNLS, TMM, TGRS, TCSVT, TII, TIM, TCE, PR, INFFUS, ASC, CVIU, EAAI, ESWA, KBS...
 
 # Academic Service
 - Conference Program Committee of the ICME2025 Workshop: Multimedia in Underwater Information Processing and Exploration
