@@ -33,7 +33,7 @@ redirect_from:
 
  <li> Wang J, <b>Fan G</b>, Li J et al. Physics-Aware Feature Calibration Network for Remote Sensing Image Segmentation[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
 
-<li>Sun S, <b>Fan G</b>, Li J et al. Two-Stream Decoupling Network for Underwater Image Enhancement[J]. Submitted to Pattern Recognition, 2026 (Accept, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
+<li>Sun S, <b>Fan G</b>, Li J et al. Two-Stream Decoupling Network for Underwater Image Enhancement[J]. Submitted to Pattern Recognition, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 
  <li> Zhang X, <b>Fan G</b>, Hua Z et al. Wavelet-Guided Dual-Frequency Encoding for Remote Sensing Fine-Grained Change Detection[J]. Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2026 (Major Revision, SCI Q2, IF: 5.7, <b>Corresponding Author</b>)</li>
 
