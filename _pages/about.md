@@ -29,7 +29,7 @@ redirect_from:
 <!-- <li>Zhou S, Yang Y, <b>Fan G</b> et al. WCI-Mamba: Overcoming Intensity Inhomogeneity in Remote Sensing Image Segmentation[J]. Submitted to Pattern Recognition, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li> -->
 
 
- <li> Song P, <b>Fan G</b>, Li J et al. Correlation-guided Frequency-Spatial Unfolding Network for Hyperspectral Image Fusion[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2026 (Under Review, SCI Q2, IF: 5.7, <b>Corresponding Author</b>)</li>
+ <li> Song P, <b>Fan G</b>, Li J et al. Correlation-guided Frequency-Spatial Unfolding Network for Hyperspectral Image Fusion[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
 
  <li> Wang J, <b>Fan G</b>, Li J et al. Physics-Aware Feature Calibration Network for Remote Sensing Image Segmentation[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
 
