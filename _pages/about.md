@@ -61,7 +61,7 @@ redirect_from:
 
  <li>	<b>Fan G</b>, Gan M, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective[C]. AAAI Conference on Artificial Intelligence, 2025, 39(3): 2834-2842 (CCF A)</li>
  <li>	<b>Fan G</b>, Gan M, Fan B et al. Multiscale Cross-connected Dehazing Network with Scene Depth Fusion[J]. IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(2): 1598-1612.(SCI Q1 TOP, CCF B, IF: 8.9)</li>
- <li> Su JN, <b>Fan G</b>, Chen GY et al. Revealing the Dark Side of Non-Local Attention in Single Image Super-Resolution[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46(12): 11476-11490.  (SCI Q1 TOP, CCF A, IF: 18.6)</li>
+
  <li>	Yao Z, <b>Fan G</b>, Gan M et al. Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-16. (SCI Q1, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
  <li>	Yao Z, Su J, <b>Fan G</b>, Gan M et al. GACA: A Gradient-Aware and Contrastive-Adaptive Learning Framework for Low-Light Image Enhancement[J]. IEEE Transactions on Instrumentation & Measurement, 2024, 73: 1-14 (SCI Q2, IF: 5.9, <b>Corresponding Author</b>)</li>
  <li>	Hu S, <b>Fan G</b>, Gan M et al. Hybrid Network via Key Feature Fusion for Image Restoration[J]. Engineering Applications of Artificial Intelligence, 2024, 137: 109236. (SCI Q1 TOP, IF: 8.0, <b>Corresponding Author</b>)</li>
