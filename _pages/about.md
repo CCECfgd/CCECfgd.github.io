@@ -26,7 +26,9 @@ redirect_from:
 
 # Paper
 <ol start="1">
-<!-- <li>Zhou S, Yang Y, <b>Fan G</b> et al. WCI-Mamba: Overcoming Intensity Inhomogeneity in Remote Sensing Image Segmentation[J]. Submitted to Pattern Recognition, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li> -->
+
+<li>Yao Z, Su S, Zhou S, <b>Fan G</b>et al. BiEvLight: Bi-level Learning of Task-Aware Event Refinement for Low-Light Image Enhancement[C]. IEEE/CV Conference on Computer Vision and Pattern Recognition, 2026 (Accept, CCF A, <b>Corresponding Author</b>)</li>
+<!-- <li>Zhou S, Yang Y, <b>Fan G</b> et al. WCI-Mamba: Overcoming Intensity Inhomogeneity in Remote Sensing Image Segmentation[J]. Submitted to Pattern Recognition, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 
 
  <li> Song P, <b>Fan G</b>, Li J et al. Correlation-guided Frequency-Spatial Unfolding Network for Hyperspectral Image Fusion[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
@@ -38,7 +40,7 @@ redirect_from:
  <li> Zhang X, <b>Fan G</b>, Hua Z et al. Wavelet-Guided Dual-Frequency Encoding for Remote Sensing Fine-Grained Change Detection[J]. Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2026 (Major Revision, SCI Q2, IF: 5.7, <b>Corresponding Author</b>)</li>
 
  <li> Zhang X, Li J, <b>Fan G</b> et al. SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion[J]. Submitted to Information Fusion, 2026 (Minor Revision, SCI Q1 TOP, IF: 15.5, <b>Corresponding Author</b>)</li> 
-
+ -->
  <li> Zhou Y, Li J, <b>Fan G</b> et al. From Unstable Conditioning to Disentangled Prompts Variance-Stable Diffusion Model for Harsh Underwater Image Enhancement[J]. Submitted to Pattern Recognition, 2026 (Accept, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
  
 <li>Yao Z, Zhou S, <b>Fan G</b> et al. Spatio-Temporal Collaborative Optimization for Event-Guided Low-Light Video Enhancement[J]. Submitted to Pattern Recognition, 2026 (Accept, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
