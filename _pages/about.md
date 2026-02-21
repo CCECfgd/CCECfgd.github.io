@@ -27,7 +27,7 @@ redirect_from:
 # Paper
 <ol start="1">
 
-<li>Yao Z, Su S, Zhou S, <b>Fan G</b>et al. BiEvLight: Bi-level Learning of Task-Aware Event Refinement for Low-Light Image Enhancement[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026 (Accept, CCF A, <b>Corresponding Author</b>)</li>
+<li>Yao Z, Su S, Zhou S, <b>Fan G</b> et al. BiEvLight: Bi-level Learning of Task-Aware Event Refinement for Low-Light Image Enhancement[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026 (Accept, CCF A, <b>Corresponding Author</b>)</li>
 <!-- <li>Zhou S, Yang Y, <b>Fan G</b> et al. WCI-Mamba: Overcoming Intensity Inhomogeneity in Remote Sensing Image Segmentation[J]. Submitted to Pattern Recognition, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 
 
