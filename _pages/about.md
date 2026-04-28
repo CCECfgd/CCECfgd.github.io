@@ -42,7 +42,7 @@ redirect_from:
  -->
  <li> Zhang X, Li J, <b>Fan G</b> et al. SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion[J]. Information Fusion, 2026 (Accept, SCI Q1 TOP, IF: 15.5, <b>Corresponding Author</b>)</li> 
  
-<li>Yao Z, Zhou S, <b>Fan G</b> et al. Spatio-Temporal Collaborative Optimization for Event-Guided Low-Light Video Enhancement[J]. Pattern Recognition, 2026 (Accept, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
+<li>Yao Z, Zhou S, <b>Fan G</b> et al. Spatio-Temporal Collaborative Optimization for Event-Guided Low-Light Video Enhancement[J]. Pattern Recognition, 2026, 177: 113332 (SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
  
 
  
