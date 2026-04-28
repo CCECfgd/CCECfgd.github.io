@@ -28,13 +28,14 @@ redirect_from:
 <ol start="1">
 
 <li>Yao Z, Su S, Zhou S, <b>Fan G</b> et al. BiEvLight: Bi-level Learning of Task-Aware Event Refinement for Low-Light Image Enhancement[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026 (Accept, CCF A, <b>Corresponding Author</b>)</li>
+ <li>Zhang F, Liu D, Ju Y, <b>Fan G</b>. Dual-Gated Transformer with Local Context Aggregation for Weakly-Supervised Medical lmage Anomaly Detection[J]. Pattern Recognition, 2026, 179: 113731 (SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 <!-- <li>Zhou S, Yang Y, <b>Fan G</b> et al. WCI-Mamba: Overcoming Intensity Inhomogeneity in Remote Sensing Image Segmentation[J]. Submitted to Pattern Recognition, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 
 
  <li> Song P, <b>Fan G</b>, Li J et al. Correlation-guided Frequency-Spatial Unfolding Network for Hyperspectral Image Fusion[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
  <li> Zhou Y, Li J, <b>Fan G</b> et al. From Unstable Conditioning to Disentangled Prompts Variance-Stable Diffusion Model for Harsh Underwater Image Enhancement[J]. Submitted to Pattern Recognition, 2026 (Accept, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
  <li> Wang J, <b>Fan G</b>, Li J et al. Physics-Aware Feature Calibration Network for Remote Sensing Image Segmentation[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
- <li>Zhang F, Liu D, Ju Y, <b>Fan G</b>. Dual-Gated Transformer with Local Context Aggregation for Weakly-Supervised Medical lmage Anomaly Detection[J]. Submitted to Pattern Recognition, 2026 (Accept, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
+
 <li>Sun S, <b>Fan G</b>, Li J et al. Two-Stream Decoupling Network for Underwater Image Enhancement[J]. Submitted to Pattern Recognition, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 
  <li> Zhang X, <b>Fan G</b>, Hua Z et al. Wavelet-Guided Dual-Frequency Encoding for Remote Sensing Fine-Grained Change Detection[J]. Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2026 (Major Revision, SCI Q2, IF: 5.7, <b>Corresponding Author</b>)</li>
@@ -45,9 +46,9 @@ redirect_from:
  
 
  
-   <li>	<b>Fan G</b>, Zhou S, Yuan G et al. Empowering Semantic-Sensitive Underwater Image Enhancement with VLM[C]. AAAI Conference on Artificial Intelligence, 2026 (Accept, <b>Oral</b>, CCF A)</li>
+   <li>	<b>Fan G</b>, Zhou S, Yuan G et al. Empowering Semantic-Sensitive Underwater Image Enhancement with VLM[C]. AAAI Conference on Artificial Intelligence, 2026, 40(5): 3759-3767 (<b>Oral</b>, CCF A)</li>
 
- <li>Wang C, <b>Fan G</b>, Li J et al. MGCR-Net: Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2026, 64, pp. 1-15, 2026 (SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
+ <li>Wang C, <b>Fan G</b>, Li J et al. MGCR-Net: Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2026, 64, pp. 1-15 (SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
 
  <li><b>Fan G</b>, Zhou Y, Ju Y et al. DCD-UIE: Decoupled Chromatic Diffusion Model for Underwater Image Enhancement[J]. IEEE Transaction on Image Processing, 2026, 35, pp. 449-464 (SCI Q1 TOP, CCF A, IF: 13.5)</li> 
 
