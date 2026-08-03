@@ -22,13 +22,11 @@ redirect_from:
  <li>Zhang F, Liu D, Ju Y, <b>Fan G</b>. Dual-Gated Transformer with Local Context Aggregation for Weakly-Supervised Medical lmage Anomaly Detection[J]. Pattern Recognition, 2026, 179: 113731 (SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 <li>Zhou S, Yang Y, <b>Fan G</b> et al. WCI-Mamba: Overcoming Intensity Inhomogeneity in Remote Sensing Image Segmentation[J]. Pattern Recognition, 2026 (SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 <li> Zhou Y, Li J, <b>Fan G</b> et al. From Unstable Conditioning to Disentangled Prompts Variance-Stable Diffusion Model for Harsh Underwater Image Enhancement[J]. Pattern Recognition, 2026 (Accept, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
-
+ <li> Wang J, <b>Fan G</b>, Li J et al. Physics-Aware Feature Calibration Network for Remote Sensing Image Segmentation[J]. IEEE Transactions on Geoscience and Remote Sensing, 2026 (Accept, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
 
 <!-- 
-
- <li> Song P, <b>Fan G</b>, Li J et al. Correlation-guided Frequency-Spatial Unfolding Network for Hyperspectral Image Fusion[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
  
- <li> Wang J, <b>Fan G</b>, Li J et al. Physics-Aware Feature Calibration Network for Remote Sensing Image Segmentation[J]. Submitted to IEEE Transactions on Geoscience and Remote Sensing, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 8.6, <b>Corresponding Author</b>)</li>
+
 
 <li>Sun S, <b>Fan G</b>, Li J et al. Two-Stream Decoupling Network for Underwater Image Enhancement[J]. Submitted to Pattern Recognition, 2026 (Under Review, SCI Q1 TOP, CCF B, IF: 7.6, <b>Corresponding Author</b>)</li>
 
